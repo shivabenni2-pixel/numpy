@@ -53,9 +53,9 @@ numpy/
 
 The notebook focuses on NumPy arrays and their operations. It does not currently demonstrate loading image files, plotting results, or provide a reusable package API. Those topics can be added as separate lessons if the project expands.
 
-## Contributing
+## Contribution
 
-Improvements to explanations, examples, and exercises are welcome. Keep examples small and runnable in sequence, and explain any required packages or data files.
+Shivanand Benni
 
 ## License
 
